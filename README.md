@@ -1,4 +1,8 @@
 # m03
+
+*** Work on M03 has stopped. This repo is now used only to preserve the 2010 windows version of 
+M03-alpha  - Please see the successor repo M19 ***
+
 M03 is the first 'context aware' burrows wheeler compressor.  It is the successor of M99 (a faster but slightly weaker
 compressor).
 Work on M03 has been suspended and only a 2010 alpha demo is available.  However, work on M19 has begun. M19 is the
